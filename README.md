@@ -73,31 +73,32 @@ Cyber Security Intern
 
 IBM Internship Project 2026
 
+
 ## Project Screenshots
 
 ### Register Page
-![Register Page](screenshots/register_page.jpeg)
+![Register Page](register_page.jpeg)
 
 ### Login Page
-![Login Page](screenshots/login_page.jpeg)
+![Login Page](login_page.jpeg)
 
 ### User Dashboard
-![User Dashboard](screenshots/user_dashboard.jpeg)
+![User Dashboard](user_dashboard.jpeg)
 
 ### Report Threat Form
-![Report Threat](screenshots/report_threat.jpeg)
+![Report Threat](report_threat.jpeg)
 
 ### My Reports
-![My Reports](screenshots/my_reports.jpeg)
+![My Reports](my_reports.jpeg)
 
 ### Admin Login
-![Admin Login](screenshots/admin_login.jpeg)
+![Admin Login](admin_login.jpeg)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.jpeg)
+![Admin Dashboard](admin_dashboard.jpeg)
 
 ### View Report
-![View Report](screenshots/view_report.jpeg)
+![View Report](view_report.jpeg)
 
 ### Database Tables
-![Database Tables](screenshots/database_tables.png)
+![Database Tables](database_tables.png)
