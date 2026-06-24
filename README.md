@@ -65,6 +65,10 @@ http://127.0.0.1:5000
 * templates/
 * static/uploads/
 
-## Author
+## Developed By
 
-IBM Cyber Security Internship Project
+Kirti Mahadeva
+
+Cyber Security Intern
+
+IBM Internship Project 2026
