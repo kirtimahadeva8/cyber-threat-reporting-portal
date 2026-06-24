@@ -101,4 +101,5 @@ IBM Internship Project 2026
 ![View Report](view_report.jpeg)
 
 ### Database Tables
-![Database Tables](database_tables.png)
+![Database Tables](databse_tables.png)
+
