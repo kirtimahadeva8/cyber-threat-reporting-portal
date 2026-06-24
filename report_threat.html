@@ -1,0 +1,110 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+
+<div class="card shadow">
+
+<div class="card-body">
+
+
+<h3>
+Report Cyber Threat
+</h3>
+
+
+<form method="POST"
+enctype="multipart/form-data">
+
+
+<input class="form-control mb-3"
+name="title"
+placeholder="Threat Title"
+required>
+
+
+<select class="form-control mb-3"
+name="category">
+
+
+<option>
+Phishing
+</option>
+
+<option>
+Malware
+</option>
+
+<option>
+Data Breach
+</option>
+
+<option>
+Other
+</option>
+
+
+</select>
+
+
+
+<textarea
+class="form-control mb-3"
+name="description"
+placeholder="Describe Threat">
+
+</textarea>
+
+
+
+
+<select class="form-control mb-3"
+name="severity">
+
+
+<option>
+Low
+</option>
+
+<option>
+Medium
+</option>
+
+<option>
+High
+</option>
+
+<option>
+Critical
+</option>
+
+
+</select>
+
+
+
+
+<input type="file"
+class="form-control mb-3"
+name="evidence">
+
+
+
+<button class="btn btn-danger">
+
+Submit Report
+
+</button>
+
+
+</form>
+
+
+</div>
+
+</div>
+
+
+
+{% endblock %}

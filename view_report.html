@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+
+
+
+{% block content %}
+
+
+<div class="card shadow">
+
+
+<div class="card-body">
+
+
+<h3>
+Report Details
+</h3>
+
+
+<hr>
+
+
+<p>
+<b>Title:</b>
+{{report[1]}}
+</p>
+
+
+<p>
+<b>Category:</b>
+{{report[2]}}
+</p>
+
+
+<p>
+<b>Description:</b>
+{{report[3]}}
+</p>
+
+
+<p>
+<b>Severity:</b>
+{{report[4]}}
+</p>
+
+
+<p>
+<b>Status:</b>
+{{report[5]}}
+</p>
+
+
+
+</div>
+
+</div>
+
+
+{% endblock %}

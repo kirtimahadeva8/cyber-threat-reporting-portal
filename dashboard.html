@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="container mt-4">
+
+    <h2>Welcome, {{ name }}</h2>
+
+    <hr>
+
+    <a href="/report-threat" class="btn btn-danger">
+        Report Threat
+    </a>
+
+    <a href="/my-reports" class="btn btn-primary">
+        My Reports
+    </a>
+
+    {% if role == 'admin' %}
+    <a href="/admin-dashboard" class="btn btn-dark">
+        Admin Dashboard
+    </a>
+    {% endif %}
+
+</div>
+
+{% endblock %}
