@@ -72,3 +72,32 @@ Kirti Mahadeva
 Cyber Security Intern
 
 IBM Internship Project 2026
+
+## Project Screenshots
+
+### Register Page
+![Register Page](screenshots/register_page.png.jpeg)
+
+### Login Page
+![Login Page](screenshots/login_page.png.jpeg)
+
+### User Dashboard
+![User Dashboard](screenshots/user_dashboard.png.jpeg)
+
+### Report Threat Form
+![Report Threat](screenshots/report_threat.png.jpeg)
+
+### My Reports
+![My Reports](screenshots/my_reports.png.jpeg)
+
+### Admin Login
+![Admin Login](screenshots/admin_login.png.jpeg)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png.jpeg)
+
+### View Report
+![View Report](screenshots/view_report.png.jpeg)
+
+### Database Tables
+![Database Tables](screenshots/database_tables.png)
