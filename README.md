@@ -76,28 +76,28 @@ IBM Internship Project 2026
 ## Project Screenshots
 
 ### Register Page
-![Register Page](screenshots/register_page.png.jpeg)
+![Register Page](screenshots/register_page.jpeg)
 
 ### Login Page
-![Login Page](screenshots/login_page.png.jpeg)
+![Login Page](screenshots/login_page.jpeg)
 
 ### User Dashboard
-![User Dashboard](screenshots/user_dashboard.png.jpeg)
+![User Dashboard](screenshots/user_dashboard.jpeg)
 
 ### Report Threat Form
-![Report Threat](screenshots/report_threat.png.jpeg)
+![Report Threat](screenshots/report_threat.jpeg)
 
 ### My Reports
-![My Reports](screenshots/my_reports.png.jpeg)
+![My Reports](screenshots/my_reports.jpeg)
 
 ### Admin Login
-![Admin Login](screenshots/admin_login.png.jpeg)
+![Admin Login](screenshots/admin_login.jpeg)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png.jpeg)
+![Admin Dashboard](screenshots/admin_dashboard.jpeg)
 
 ### View Report
-![View Report](screenshots/view_report.png.jpeg)
+![View Report](screenshots/view_report.jpeg)
 
 ### Database Tables
 ![Database Tables](screenshots/database_tables.png)
